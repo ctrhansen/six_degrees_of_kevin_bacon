@@ -19,7 +19,7 @@ Basic Flow Structure
 1. Begin by clicking the `fork button` at the top right corner of this screen to fork the repository.
 2. Click the green `clone or download button arrow` and click the `clipboard button` to copy the link.
 2. In your terminal, type `git clone` and `ctrl/cmd -v` to paste the link.
-3. After cloning, type `cd guided-module-one-final-project-houston-web-career-040119` in your terminal. 
+3. After cloning, type `cd six_degrees_of_kevin_bacon` in your terminal. 
 4. Type `bundle install` to install all required ruby gems into your terminal.
 5. Go to [https://www.themoviedb.org/account/signup] to sign up for an API key.
 6. Once you have an API key, input **your** key into 4 places in the file bin/methods.rb **lines 201, 223, 256, and 284**
